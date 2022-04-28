@@ -38,10 +38,10 @@
 
 <br><br>
 
-## 👨🏽‍🦲 &nbsp;Social Links
+## 👨🏻‍💻 &nbsp;Social Links
 
 <p align="left" style="background:yellow">
-<a href="https://codepen.io/#" target="_blank">
+<a href="https://codepen.io/thiagorodriguesdutra" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-thiagodutra-05122A?style=flat&logo=codepen" alt="codepen"/>
 </a>
 <a href="https://twitter.com/thiagodevdutra" target="_blank">
@@ -52,9 +52,6 @@
 </a>
 <a href="https://instagram.com/thirodriguesdutra" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-thiagodutra-05122A?style=flat&logo=instagram" alt="instagram"/>
-</a>
-<a href="https://youtube.com/#" target="_blank">
- <img align="center" src="https:///badge/-thiagodutra-05122A?style=flat&logo=youtube" alt="youtube"/>
 </a>
 </p>
 
