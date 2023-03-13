@@ -36,21 +36,6 @@
 
 <br><br>
 
-## 👨🏻‍💻 &nbsp;Social Links
 
-<p align="left" style="background:yellow">
-<a href="https://codepen.io/thiagorodriguesdutra" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-thiagodutra-05122A?style=flat&logo=codepen" alt="codepen"/>
-</a>
-<a href="https://twitter.com/thiagodevdutra" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-thiagodutra-05122A?style=flat&logo=twitter" alt="twitter"/>  
-</a>
-<a href="thiago-rodrigues-da-silva-dutra-60b366182" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-thiagodutra-05122A?style=flat&logo=linkedin" alt="linkedin"/>
-</a>
-<a href="https://instagram.com/thirodriguesdutra" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-thiagodutra-05122A?style=flat&logo=instagram" alt="instagram"/>
-</a>
-</p>
 
 
