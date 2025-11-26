@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thiagorodriguesdutra&color=yellow" alt="Profile views" /> </p>
 
-- 🔭 I’m currently working on Delta Sucroenergia SA.
+- 🔭 I’m currently working on Ouro Safra SA.
 
 - 🌱 I’m currently learning Reactjs, TypeScript and Nodejs.
 
